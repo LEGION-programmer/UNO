@@ -1,0 +1,45 @@
+.bg{
+    margin: 15px auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 25px #FBFFFE;
+    border-radius: 50px;
+    background-color: #e03400;
+}
+
+.fontHeader{
+    color: #FBFFFE;
+    margin: 15px;
+    font-size: 170%;
+    font-weight: 900;
+}
+
+.footerBg{
+    position: absolute;
+    bottom: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.footerBlock{
+    width: 70%;
+    box-shadow: 0 0 25px #FBFFFE;
+    border-radius: 50px;
+    background-color: #e03400;
+    text-align: center;
+}
+
+.footerText{
+    color: #FBFFFE;
+    font-size: 100%;
+}
+
+.href{
+    color: #FBFFFE;
+    text-decoration: none;
+    font-weight: 800;
+}

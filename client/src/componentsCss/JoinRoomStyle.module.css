@@ -1,0 +1,45 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #FBFFFE;
+}
+
+.section{
+    margin: 20px 0;
+}
+
+.label{
+    text-align: center;
+}
+
+.input{
+    width: 90%;
+    border-radius: 50px;
+    padding: 7px;
+    margin: 10px;
+    border: none;
+    box-shadow: 0 0 15px #FBFFFE;
+    text-align: center;
+}
+
+.button{
+    display: block;
+    font-size: 130%;
+    width: 90%;
+    border: 2px dotted #FBFFFE;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 10px ;
+}
+
+.button:hover{
+    border: 2px solid #FBFFFE;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.error{
+    font-size: 120%;
+    margin: 10px;
+}
